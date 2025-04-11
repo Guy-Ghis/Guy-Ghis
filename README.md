@@ -1,7 +1,7 @@
 # Hello World!, I'm Ghislain👋🏼:
 
 # 💫 About Me:
-I'm currently learning Rust
+I'm a junior fullstack engineer fueled by curiosity and a genuine passion for technology, innovation, and continuous improvement. I thrive in collaborative environments where ideas are shared, solutions are built together, and every challenge is an opportunity to learn and grow. I love crafting clean, efficient, and scalable solutions—always with an eye toward optimization and user experience. Whether I’m diving into new technologies or brainstorming with a team, I bring energy, adaptability, and a drive to make things better, smarter, and more impactful.
 
 
 ## 🌐 Socials:
