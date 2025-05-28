@@ -1,7 +1,13 @@
 # Hi there!, I'm Ghislain👋🏼:
 
+## 👀 Profile Views
+![Profile views](https://komarev.com/ghpvc/?username=Guy-Ghis&label=Profile%20views&color=007acc&style=for-the-badge)
+
 # 💫 About Me:
-I'm a junior fullstack engineer fueled by curiosity and a genuine passion for technology, innovation, and continuous improvement. I thrive in collaborative environments where ideas are shared, solutions are built together, and every challenge is an opportunity to learn and grow. I love crafting clean, efficient, and scalable solutions—always with an eye toward optimization and user experience.
+- I'm a junior fullstack engineer fueled by curiosity and my passion for technology and innovation.
+- I thrive in collaborative environments where ideas are shared and solutions are built together.
+- I love crafting secured, efficient, and scalable solutions.
+- Every challenge is an opportunity to learn and grow.
 
 
 ## 🌐 How to reach Me:
