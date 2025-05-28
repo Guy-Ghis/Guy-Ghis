@@ -4,7 +4,7 @@
 I'm a junior fullstack engineer fueled by curiosity and a genuine passion for technology, innovation, and continuous improvement. I thrive in collaborative environments where ideas are shared, solutions are built together, and every challenge is an opportunity to learn and grow. I love crafting clean, efficient, and scalable solutions—always with an eye toward optimization and user experience.
 
 
-## 🌐 Socials:
+## 🌐 How to reach Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/guy-ghislain-tissong-aa57b1341 ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tissongguyghislain001@gmail.com) [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.gg/EjzGhySM) [![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/ThatGhis?s=08) 
 
 # 💻 Tech Stack:
