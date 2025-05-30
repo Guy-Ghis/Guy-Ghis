@@ -36,9 +36,9 @@
 ![Scratch](https://img.shields.io/badge/scratch-%23F7C600.svg?style=for-the-badge&logo=scratch&logoColor=black)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Guy-Ghis&show_icons=true&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Guy-Ghis&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Guy-Ghis&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Guy-Ghis&show_icons=true&theme=github_dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Guy-Ghis&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Guy-Ghis&show_icons=true&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Guy-Ghis&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
