@@ -15,18 +15,13 @@ jobs:
           filename: metrics.plugin.achievements.compact.svg
           token: ${{ secrets.METRICS_TOKEN }}
           user: Guy-Ghis
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: E  # Use A, B, C, etc.
-          plugin_achievements_only: >-
-            polyglot, stargazer, sponsor, deployer, member, maintainer,
-            developer, scripter, packager, explorer, infographile
-          plugins_errors_fatal: false
-          plugin_achievements_ignored: >-
-            project, projects, project-classic, project-beta, project-v2
+          plugin_achievements: no  # Disable achievements plugin
           use_prebuilt_image: yes
           debug: true
-          retries: 5   # Increased retries
-          retries_delay: 120  # Increased delay between retries
-          plugin_achievements_secrets: false  # Disable secrets achievements
-          plugin_achievements_rank: false  # Disable rank-based achievements
+          retries: 5
+          retries_delay: 120
+          # Core metrics
+          base: yes
+          plugin_languages: yes
+          plugin_stars: yes
+          plugin_activity: yes
