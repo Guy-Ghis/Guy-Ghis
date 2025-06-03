@@ -21,3 +21,4 @@ jobs:
           plugin_achievements_only: >-
             polyglot, stargazer, sponsor, deployer, member, maintainer,
             developer, scripter, packager, explorer, infographile
+          plugins_errors_fatal: false
