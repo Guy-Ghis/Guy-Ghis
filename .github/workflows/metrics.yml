@@ -15,7 +15,7 @@ jobs:
           filename: metrics.plugin.achievements.compact.svg
           token: ${{ secrets.METRICS_TOKEN }}
           user: Guy-Ghis
-          plugin_achievements: no  # Disable achievements plugin
+          plugin_achievements: yes
           use_prebuilt_image: yes
           debug: true
           retries: 5
