@@ -22,5 +22,9 @@ jobs:
             polyglot, stargazer, sponsor, deployer, member, maintainer,
             developer, scripter, packager, explorer, infographile
           plugins_errors_fatal: false
-          plugin_achievements_ignored: project
+          plugin_achievements_ignored: >-
+            project, projects, project-classic, project-beta
           use_prebuilt_image: yes
+          debug: true  # Enable debug mode to get more detailed error information
+          retries: 3   # Add retries in case of temporary failures
+          retries_delay: 60  # Wait 60 seconds between retries
