@@ -1,23 +1,24 @@
-name: Metrics
+name: Metrics Achievements
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs daily at midnight
-  workflow_dispatch:
+    - cron: "0 */12 * * *"  # Every 5 minutes
+  workflow_dispatch:       # Allow manual trigger
 
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate metrics
+      - name: Generate Metrics
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.achievements.compact.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          user: Guy-Ghis
           base: ""
           plugin_achievements: yes
-          plugin_achievements_only: >-
-            polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
-            scripter, packager, explorer, infographile, manager
           plugin_achievements_display: compact
-          plugin_achievements_threshold: 0
+          plugin_achievements_threshold: E  # Use A, B, C, etc.
+          plugin_achievements_only: >-
+            polyglot, stargazer, sponsor, deployer, member, maintainer,
+            developer, scripter, packager, explorer, infographile, manager
