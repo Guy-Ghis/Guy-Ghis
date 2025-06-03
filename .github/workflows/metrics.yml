@@ -2,7 +2,7 @@ name: Metrics Achievements
 
 on:
   schedule:
-    - cron: "0 */12 * * *"  # Every 5 minutes
+    - cron: "0 */12 * * *"  # Every 12 hours
   workflow_dispatch:       # Allow manual trigger
 
 jobs:
