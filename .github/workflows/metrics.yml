@@ -23,8 +23,10 @@ jobs:
             developer, scripter, packager, explorer, infographile
           plugins_errors_fatal: false
           plugin_achievements_ignored: >-
-            project, projects, project-classic, project-beta
+            project, projects, project-classic, project-beta, project-v2
           use_prebuilt_image: yes
-          debug: true  # Enable debug mode to get more detailed error information
-          retries: 3   # Add retries in case of temporary failures
-          retries_delay: 60  # Wait 60 seconds between retries
+          debug: true
+          retries: 5   # Increased retries
+          retries_delay: 120  # Increased delay between retries
+          plugin_achievements_secrets: false  # Disable secrets achievements
+          plugin_achievements_rank: false  # Disable rank-based achievements
