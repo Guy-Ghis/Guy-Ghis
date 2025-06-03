@@ -43,6 +43,9 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Guy-Ghis&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
 
+## 🏆 Achievements
+![GitHub Achievements](./metrics.plugin.achievements.compact.svg)
+
 ### ✍️ Motivation Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
